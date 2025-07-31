@@ -1,6 +1,6 @@
 # 'Cracked_AI' a nueral network built using keras
-* **My goal**.      To use statistic process data to predict defects
-* **Cracked_AI**.   A cute name I came up with to remind me what defect this is supposed to predict.
+* **My goal**:      To use statistic process data to predict defects
+* **Cracked_AI**:   A cute name I came up with to remind me what defect this is supposed to predict.
 
 * **Training Data:**
 * n<sub>0</sub> - n<sub>n</sub> samples of process variables for a given serialized unit.
