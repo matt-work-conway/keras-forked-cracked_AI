@@ -1,3 +1,12 @@
+# 'Cracked_AI' a nueral network built using keras
+* **My goal**.      To use statistic process data to predict defects
+* **Cracked_AI**.   A cute name I came up with to remind me what defect this is supposed to predict.
+
+* **Training Data:**
+* n<sub>0</sub> - n<sub>n</sub> samples of process variables for a given serialized unit.
+* n<sub>0</sub> - n<sub>1</sub> outcomes for this particular defect **(is or is not present)**.
+* n<sub>0</sub> - n<sub>n</sub> serialized units.
+
 # Keras 3: Deep Learning for Humans
 
 Keras 3 is a multi-backend deep learning framework, with support for JAX, TensorFlow, PyTorch, and OpenVINO (for inference-only).
